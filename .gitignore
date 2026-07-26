@@ -1,0 +1,4 @@
+# generated media (rebuild with decoder.py option 1)
+media/
+.DS_Store
+__pycache__/
