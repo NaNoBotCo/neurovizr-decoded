@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it as below."
+title: "Neurovizr Decoded"
+abstract: "Stdlib FFT teardown of a light and sound neurostimulation device"
+type: software
+authors:
+  - name: "NaN"
+    website: "https://github.com/NaNoBotCo"
+repository-code: "https://github.com/NaNoBotCo/neurovizr-decoded"
+url: "https://nanobotco.github.io/neurovizr-decoded/"
+license:
+  - CC-BY-SA-4.0
+  - AGPL-3.0-or-later
+date-released: "2026-09-18"
